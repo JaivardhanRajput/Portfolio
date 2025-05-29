@@ -321,7 +321,7 @@ form button:hover {
     color: #00ADB5; /* accent color */
   }
 }
-@media (min-width: 769px) {
+@media (min-width: 768px) {
   nav .menu-toggle {
     display: none;
   }
